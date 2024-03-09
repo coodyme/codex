@@ -1,6 +1,0 @@
-/export/*.json
-/tmp/*.json
-/export/*.csv
-/tmp/*.csv
-/.vscode
-/__pycache__
